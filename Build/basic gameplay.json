@@ -1,0 +1,16 @@
+{
+"companyName": "Refugio Sanchez",
+"productName": "unit 2 basic gameplay",
+"productVersion": "1.0",
+"dataUrl": "basic gameplay.data.unityweb",
+"wasmCodeUrl": "basic gameplay.wasm.code.unityweb",
+"wasmFrameworkUrl": "basic gameplay.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
